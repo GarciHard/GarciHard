@@ -3,7 +3,7 @@
 
 <br>
 
-- 🔭 I’m currently working on **HSBC IT Mx**
+- 🔭 I’m currently working on **Solera - Omnitracs**
 
 - 👯 I’m looking to collaborate on **Front End projects**
 
